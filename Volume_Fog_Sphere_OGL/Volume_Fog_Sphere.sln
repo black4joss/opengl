@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Volume_Fog_Sphere", "Volume_Fog_Sphere\Volume_Fog_Sphere.vcxproj", "{2D5D843C-2DC7-4216-9083-53FEA0E183FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Debug|x64.ActiveCfg = Debug|x64
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Debug|x64.Build.0 = Debug|x64
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Debug|x86.Build.0 = Debug|Win32
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Release|x64.ActiveCfg = Release|x64
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Release|x64.Build.0 = Release|x64
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Release|x86.ActiveCfg = Release|Win32
+		{2D5D843C-2DC7-4216-9083-53FEA0E183FE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {384C3FBB-3867-4E0D-8A53-74D39E69D70C}
+	EndGlobalSection
+EndGlobal
